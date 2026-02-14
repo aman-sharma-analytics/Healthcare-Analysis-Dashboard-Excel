@@ -46,5 +46,7 @@ This dashboard demonstrates how data-driven insights can enhance operational eff
 
 7. 📸 Dashboard Preview
 ![Healthcare Dashboard](https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/raw/main/Dashboard%20Preview.png)
+![GitHub stars](https://img.shields.io/github/stars/aman12342100ok/Healthcare-Analysis-Dashboard-Excel)
+
 
 
