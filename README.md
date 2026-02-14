@@ -45,5 +45,6 @@ Average satisfaction score of 4.96, with 3,560 visits not rated, highlighting an
 This dashboard demonstrates how data-driven insights can enhance operational efficiency and support strategic healthcare decision-making.
 
 7. 📸 Dashboard Preview
-![Healthcare Dashboard](https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/raw/main/Screenshot%202026-01-27%20022547.png)
+![Healthcare Dashboard](https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/raw/main/Dashboard%20Preview.png)
+
 
