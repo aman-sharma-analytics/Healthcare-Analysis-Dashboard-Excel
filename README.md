@@ -1,9 +1,9 @@
 ## 🏥 Healthcare Performance Analysis Dashboard (Excel)
-1. 📌 Summary
+1. 📌 Summary:
 This project presents an interactive Healthcare Performance Dashboard built in Excel to analyze patient visits, operational efficiency, departmental utilization, and satisfaction trends for 2023–2024.
 The dashboard transforms raw healthcare data into actionable business insights using advanced Excel features and KPI-driven reporting.
 
-2. 🛠 Tech Stack
+2. 🛠 Tech Stack:
 Tool Used:
 Microsoft Excel
 Excel Features & Functions Used:
@@ -16,10 +16,10 @@ Conditional Formatting
 KPI Cards
 Data Cleaning & Structuring
 
-3. 📂 Data Source
+3. 📂 Data Source:
 Dataset sourced from Kaggle (Healthcare/Patient Visit dataset – 2023–2024).
 
-4. ✨ Features & Highlights
+4. ✨ Features & Highlights:
 Interactive filtering by year and department
 KPI cards for total visits, YoY growth, average wait time, and satisfaction score
 Age-group-based patient segmentation
@@ -27,7 +27,7 @@ Department referral analysis
 Operational trend comparison (2023 vs 2024)
 Visual insights using charts and conditional formatting
 
-5. 🎯 Project Goal
+5. 🎯 Project Goal:
 The objective of this dashboard is to demonstrate how healthcare data can be analyzed using Excel to:
 Monitor patient volume growth
 Evaluate operational stability
@@ -35,7 +35,7 @@ Identify high-demand departments
 Assess patient satisfaction levels
 Support data-driven healthcare decisions
 
-6. 📊 Key Insights
+6. 📊 Key Insights:
 4,878 patient visits in 2024, reflecting a 12.45% YoY growth compared to 2023
 Average patient wait time of 35 minutes, with 1.24% YoY increase, indicating stable operations
 Highest admissions observed in the 21–40 age group, showing stronger engagement
@@ -44,7 +44,7 @@ General Practice (966 referrals) and Orthopedics (532 referrals) were the most u
 Average satisfaction score of 4.96, with 3,560 visits not rated, highlighting an opportunity to improve feedback collection
 This dashboard demonstrates how data-driven insights can enhance operational efficiency and support strategic healthcare decision-making.
 
-7. 📸 Dashboard Preview
+7. 📸 Dashboard Preview:
 ![Healthcare Dashboard](https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/raw/main/Dashboard%20Preview.png)
 
 
