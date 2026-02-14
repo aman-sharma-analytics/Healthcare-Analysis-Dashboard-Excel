@@ -37,7 +37,7 @@ Support data-driven healthcare decisions
 
 6. 📊 Key Insights
 4,878 patient visits in 2024, reflecting a 12.45% YoY growth compared to 2023
-Average patient wait time of 35 minutes, with only a 1.24% YoY increase, indicating stable operations
+Average patient wait time of 35 minutes, with 1.24% YoY increase, indicating stable operations
 Highest admissions observed in the 21–40 age group, showing stronger engagement
 General Practice (966 referrals) and Orthopedics (532 referrals) were the most utilized departments
 2,886 visits (~59%) had no department referral, indicating non-specialty or preliminary cases
