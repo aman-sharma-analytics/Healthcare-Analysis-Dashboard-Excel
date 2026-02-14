@@ -44,4 +44,6 @@ General Practice (966 referrals) and Orthopedics (532 referrals) were the most u
 Average satisfaction score of 4.96, with 3,560 visits not rated, highlighting an opportunity to improve feedback collection
 This dashboard demonstrates how data-driven insights can enhance operational efficiency and support strategic healthcare decision-making.
 
-7. 📸 Dashboard Preview - [https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/blob/main/Screenshot%202026-01-27%20022547.png](https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/blob/main/Screenshot%202026-01-27%20022547.png))
+7. 📸 Dashboard Preview
+![Healthcare Dashboard](https://github.com/aman12342100ok/Healthcare-Analysis-Dashboard-Excel/raw/main/Screenshot%202026-01-27%20022547.png)
+
